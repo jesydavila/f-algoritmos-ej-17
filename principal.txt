@@ -1,0 +1,11 @@
+¿Qué son los ciclos repetitivos y para qué sirven?
+
+Estos ciclos nos permiten repetir procesos dependiendo de la cantidad de personas u otros datos que se tenga o hasta realizar alguna acción.
+Existen tres ciclos los cuales son muy empleados y prácticos.
+
+
+“FOR” ; “WHILE” y el “DO WHILE”
+
+1)    CICLO FOR: Nos permite colocar un número de personas o datos específicos antes que se cierre el ciclo. Se declara como una variable, y con una figura especial se inicia el ciclo; se colocan tres valores.
+
+El primer valor es el valor de inicio que por lo general es uno o cero según la situación, el segundo valor es el número de veces que se repetirá el ciclo, y por último se declara el incremento.
